@@ -5,7 +5,6 @@ import {
   ArrowRight,
   Menu,
   X,
-  ArrowLeft,
 } from 'lucide-react';
 
 const MENU_ITEMS = [
